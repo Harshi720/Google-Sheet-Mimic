@@ -2,14 +2,20 @@
 
 Features Containing:
 **1.Spreadsheet Interface**
+
   *Mimic Google Sheets UI: It is a layout with rows and columns, allow users to edit, select and format cells, include features for cell borders and background colors.
+  
   *Cell Dependencies: It refer to the relationships between cells in a spreadsheet where the value or formula in one cell relies on the value or formula in another.
+  
   *Support for basic cell formatting (bold, italics, font size, color).
+  
   *Ability to add, delete, and resize rows and columns.
+  
   *Drag Functions
   
 **2. Performing Mathematical Functions** 
   The following mathematical functions are:
+  
   *SUM: It is used to calculate the sum of range of cells
   (Syntax:=SUM(range)
   Example: =SUM(A1:A10))
@@ -31,10 +37,15 @@ Features Containing:
   Example: =MAX(A1:A10))
   
 **3. Data Quality Functions**
+
   *TRIM
+  
   *UPPER
+  
   *LOWER
+  
   *REMOVE_DUPLICATES
+  
   *FIND_AND_REPLACE
 
 **4.Data Entry and Validation**
