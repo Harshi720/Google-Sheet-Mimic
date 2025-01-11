@@ -1,8 +1,8 @@
 **Assignment Name:** Web Application Mimicking Google Sheets
 
-Features Containing:
+Features Containing
 
-**1.Spreadsheet Interface**
+**1.Spreadsheet Interface:**
 
   *Mimic Google Sheets UI: It is a layout with rows and columns, allow users to edit, select and format cells, include features for cell borders and background colors.
   
@@ -14,7 +14,8 @@ Features Containing:
   
   *Drag Functions
   
-**2. Performing Mathematical Functions** 
+**2. Performing Mathematical Functions:**
+
   The following mathematical functions are:
   
   *SUM: It is used to calculate the sum of range of cells
@@ -37,7 +38,7 @@ Features Containing:
   (Syntax: =MAX(range)
   Example: =MAX(A1:A10))
   
-**3. Data Quality Functions**
+**3. Data Quality Functions:**
 
   *TRIM
   
@@ -49,11 +50,11 @@ Features Containing:
   
   *FIND_AND_REPLACE
 
-**4.Data Entry and Validation**
+**4.Data Entry and Validation:**
   It allows the users to give various datatypes like String, Numbers, Date.
   This validates the data as numeric cells only contain numbers.
   
-**5.Testing**
+**5.Testing:**
   Testing provides the users to test the implemented functions with own data.
   This functional execution display results clearly.
   
