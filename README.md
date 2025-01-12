@@ -65,3 +65,7 @@ And it has the capabilities of data visualization int the form of
 * Plot Graph
 * Line Graph
 * Helping Features
+
+**Repository URL:** https://github.com/Harshi720/Google-Sheet-Mimic
+
+**Website URL:**
