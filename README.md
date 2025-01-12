@@ -68,4 +68,4 @@ And it has the capabilities of data visualization int the form of
 
 **Repository URL:** https://github.com/Harshi720/Google-Sheet-Mimic
 
-**Website URL:**
+**Website URL:** https://harshi720.github.io/Google-Sheet-Mimic/
